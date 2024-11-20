@@ -1,0 +1,6 @@
+torch
+git+https://github.com/lucidrains/denoising-diffusion-pytorch.git
+torchvision
+pillow
+numpy
+matplotlib
